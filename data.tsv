@@ -1,5 +1,5 @@
 Part ▲	Radial size	Cost	Mass	Max. Temp.	Tolerance(m/s)	Tolerance(g)	Thrust(atm)	Thrust(vac)	T/W(atm)	T/W(vac)	Max. Fuel	Isp (s,atm)	Isp (s,vac)	TVC/Gimbal(°)
-LV-N "Nerv" Atomic Rocket Motor[Note 2]	Small	10000	3	2500	12	50	13.88	60	0.47	2.04	1.53	185	800	-1
+LV-N "Nerv" Atomic Rocket Motor	Small	10000	3	2500	12	50	13.88	60	0.47	2.04	1.53	185	800	-1
 ウルフハウンド	Large	-1	3.3	-1	-1	-1	-1	375	-1	-1	-1	-1	380	-1
 チーター	Medium	-1	1	-1	-1	-1	-1	125	-1	-1	-1	-1	355	-1
 RE-L10 "Poodle" Liquid Fuel Engine	Large	1300	1.75	2000	7	50	64.29	250	3.75	14.57	14.568	90	350	4.5
@@ -17,10 +17,10 @@ RE-M3 "Mainsail" Liquid Engine	Large	13000	6	2000	7	50	1379.03	1500	23.44	25.49	
 LV-T30 "Reliant" Liquid Fuel Engine	Small	1100	1.25	2000	7	50	205.16	240	16.74	19.58	15.789	265	310	-1
 ボブキャット	Medium	-1	2	-1	-1	-1	-1	400	-1	-1	-1	-1	310	-1
 Mk-55 "Thud" Liquid Fuel Engine	Radial mounted	820	0.9	2000	7	50	108.2	120	12.26	13.6	8.024	275	305	8
-CR-7 R.A.P.I.E.R. Engine[Note 4]	Small	6000	2	2000	20	50	162.3	180	8.27	9.18	12.036	275	305	3
+CR-7 R.A.P.I.E.R. Engine	Small	6000	2	2000	20	50	162.3	180	8.27	9.18	12.036	275	305	3
 マストドン	Large	-1	5	-1	-1	-1	-1	1350	-1	-1	-1	-1	305	-1
-LFB KR-1x2 "Twin-Boar" Liquid Fuel Engine[Note 3]	Large, Radial mounted	17000	42.5	2000	20	50	1866.67	2000	4.48	4.8	135.964	280	300	1.5
+LFB KR-1x2 "Twin-Boar" Liquid Fuel Engine	Large, Radial mounted	17000	42.5	2000	20	50	1866.67	2000	4.48	4.8	135.964	280	300	1.5
 ゴディアック	Small	-1	1.25	-1	-1	-1	-1	260	-1	-1	-1	-1	300	-1
 24-77 "Twitch" Liquid Fuel Engine	Radial mounted	230	0.08	2000	7	50	15.17	16	19.34	20.39	1.125	275	290	8
 LV-1R "Spider" Liquid Fuel Engine	Radial mounted	120	0.02	2000	7	50	1.79	2	9.14	10.2	0.141	260	290	10
-O-10 "Puff" MonoPropellant Fuel Engine[Note 1]	Radial mounted	150	0.09	2000	7	50	9.6	20	10.88	22.66	2.039	120	250	6
+O-10 "Puff" MonoPropellant Fuel Engine	Radial mounted	150	0.09	2000	7	50	9.6	20	10.88	22.66	2.039	120	250	6
