@@ -5,17 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" href="./style.css" />
-    <title>BF4 Weapon DPS Stats</title>
+    <title>KSP Engines</title>
   </head>
 
   <body>
     <main>
-      <h1 class="title">BF4 Weapon DPS Stats</h1>
+      <h1 class="title">KSP Engines</h1>
       <div id="app" class="flex">
-        <sortable-table
-          v-for="category of categories"
-          v-bind:category="category"
-        ></sortable-table>
+        <sortable-table src="./data.tsv" caption=""></sortable-table>
       </div>
     </main>
 
