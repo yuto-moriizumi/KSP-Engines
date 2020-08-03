@@ -8,13 +8,13 @@ const sortableTable = Vue.component("sortable-table", {
         </th>
       </tr>
     </thead>
-    <tbody>
-      <tr v-for="task in rows">
+    <transition-group name="items" tag="tbody">
+      <tr v-for="task in rows" v-bind:key="task[0]">
         <td v-for="value in task">
           {{ value }}
         </td>
       </tr>
-    </tbody>
+    </transition-group>
   </table>`,
   props: ["src", "caption"],
   data: function () {
